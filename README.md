@@ -1,5 +1,5 @@
 # restaurant-database
-creating a database with 5 tables using MYSQL
+creating a database with 5 tables using MySQL
 - set primary and foreign keys to create relations between the tables
 - used joins to create view tables that combines multiple tables
 - created a stored function that can be applied to a query in my DB
