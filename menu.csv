@@ -1,0 +1,13 @@
+food_id,food_name,type,price
+1,Roasted Stuffed Mushrooms,starter,5.00
+2,Smoked Salmon,starter,7.00
+3,Chicken Salad,starter,4.00
+4,Fish Cake with Salad,starter,5.00
+5,Beef Steak,main,12.00
+6,Cod Fillet with Salad,main,10.00
+7,Lamb Shank,main,15.00
+8,Roast Duck with Casserole,main,11.00
+9,Key Lime Pie,dessert,5.00
+10,Strawberry Sundae,dessert,6.00
+11,Chocolate Lava Cake,dessert,8.00
+12,Passion Fruit Tart,dessert,7.00
